@@ -11,7 +11,7 @@ import SwiftUI
 struct BakEat_tvOS_App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            StartingView()
         }
     }
 }
