@@ -8,7 +8,6 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [iOS Version](#ios-version)
 * [Contact](#contact)
 * [Credits](#credits)
 
@@ -21,8 +20,6 @@ For the Apple TV version I thought that the best format to render a recipe in an
 ## Technologies Used
 - macOS - 12.1
 - Xcode - 13.3
-
-## iOS Version
 
 ## Contact
 Created by [Barbara Beatrice](https://github.com/BarbaraBeatrice)
