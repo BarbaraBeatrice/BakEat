@@ -1,15 +1,28 @@
 # BakEat
 
-> This is a simple app that should contain a collection of recipes, available on iOS, macOS, watchOS and tvOS.
-> You can find my short video about how to make a multiplatform app in 3 steps [here](https://www.notion.so/B-Artifact-2-9a294accdd584698a6b81b4c1651e457).
-
 <img width="916" alt="Schermata 2022-04-06 alle 10 24 24" src="https://user-images.githubusercontent.com/61754424/161930277-01b09213-cadf-4d5e-898c-813504826d79.png">
 
+> This is a simple app that should contain a collection of recipes, available on iOS, macOS, watchOS and tvOS.
+> Below you can also find a short video I made to summarize three fundamental steps to make a multi-platform app.
+> 
+> 💡The central element is planning: each device has unique features that must be exploited to the fullest.
+> 
+> 💡The second step is related to the visual style of the project: consistency is the keyword.
+> 
+> 💡At this point we are ready to jump right in the coding stage: it's time to create different Views and show them on different devices..
+
+
 ## Table of Contents
+* [Video](#video)
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Contact](#contact)
 * [Credits](#credits)
+
+## Video
+
+https://user-images.githubusercontent.com/61754424/162397967-92f9fe62-36c6-4864-9ebe-792f8dcf54ff.mov
+
 
 ## General Information
 I created this app in order to understand how a single project can be adapted to many devices: you will see that some platforms present different features.
@@ -24,5 +37,7 @@ For the Apple TV version I thought that the best format to render a recipe in an
 ## Contact
 Created by [Barbara Beatrice](https://github.com/BarbaraBeatrice)
 
-## Contact
-All images used in the app (except for the app icon) are from [Unsplash]https://unsplash.com
+## Credits
+All images used in the app (except for the app icon) are from [Unsplash](https://unsplash.com)
+
+The music in the video is from [Bensound](https://www.bensound.com)
